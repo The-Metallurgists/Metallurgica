@@ -1,2 +1,2 @@
 # Metallurgica
-Painfully realistic processing for all kinds of minerals
+Real metallurgy applied to Create
