@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[43,)"
 license="All rights reserved"
-issueTrackerURL="https://github.com/Metallurgists-of-Create/Metallurgica/issues"
+issueTrackerURL="https://github.com/The-Metallurgists/Metallurgica/issues"
 [[mods]]
 modId="metallurgica"
 version="${file.jarVersion}"
 displayName="Metallurgica"
-displayURL="https://github.com/Metallurgists-of-Create/Metallurgica"
+displayURL="https://github.com/The-Metallurgists/Metallurgica"
 logoFile="metallurgica.png"
-credits="Metallurgists of Create"
+credits="The Metallurgists"
 authors="PouffyDev"
 description='''
 Replaces the vanilla ore generation with a new system that requires large processing trees to get the most out of your ore deposits.
